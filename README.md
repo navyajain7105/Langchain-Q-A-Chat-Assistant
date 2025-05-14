@@ -17,5 +17,6 @@ This project is a **Conversational Q&A Assistant** built with LangChain, Streaml
 
 ## 📸 Screenshots
 
-![Screenshot 2025-05-14 204544](https://github.com/user-attachments/assets/74b283c2-7403-4e75-89e7-f728ee253922)
-![Screenshot 2025-05-14 204711](https://github.com/user-attachments/assets/23a8b55d-5bd0-409d-800b-f95a30391177)
+
+![Screenshot 2025-05-14 204544](https://github.com/user-attachments/assets/ef5bb2f3-5c5e-4bd4-97e6-376d511ec00d)
+![Screenshot 2025-05-14 204711](https://github.com/user-attachments/assets/a3408dfb-b0d8-46fc-be96-d45cd14d20af)
